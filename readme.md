@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-m0&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-m0" /> </p>
 
-- 🌱 I’m currently learning **Python, Robot Framework, Sql, Xpath**
 
 - 📫 How to reach me **pratikmabrukhane19@gmail.com**
 
